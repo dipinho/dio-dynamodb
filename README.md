@@ -1,5 +1,7 @@
-![alt text](https://miro.medium.com/max/700/1*cmfoGi3FnVIBCwvmVLYgjg.png)
 # dio-dynamodb
+
+![alt text](https://miro.medium.com/max/700/1*cmfoGi3FnVIBCwvmVLYgjg.png)
+
 Repositório para o desafio de código do Bootcamp Geração Tech Unimed-BH - Ciência de Dados da DIO sobre o Amazon DynamoDB.
 
 <br>

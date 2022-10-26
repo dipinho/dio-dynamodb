@@ -1,9 +1,9 @@
+![alt text](https://miro.medium.com/max/700/1*cmfoGi3FnVIBCwvmVLYgjg.png)
 # dio-dynamodb
 Repositório para o desafio de código do Bootcamp Geração Tech Unimed-BH - Ciência de Dados da DIO sobre o Amazon DynamoDB.
 
 <br>
 <h2>Serviço utilizado</h2>
-
 
 <li>Amazon DynamoDB</li>
 <li>Amazon CLI para execução em linha de comando</li>
